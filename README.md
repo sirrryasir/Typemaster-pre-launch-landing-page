@@ -83,7 +83,7 @@ I want to keep improving in:
 ## Author
 
 * Portfolio - [Yasir Hassan](https://github.com/sirrryasiry)
-* Frontend Mentor - [@sirrryasir](https://www.frontendmentor.io/profile/siryazy)
+* Frontend Mentor - [Yasir Hassan](https://www.frontendmentor.io/profile/sirrryasir)
 * Twitter - [Yasir Hassan](https://twitter.com/sirrryasir)
 
 ## Acknowledgments
